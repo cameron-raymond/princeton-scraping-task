@@ -1,6 +1,6 @@
-# princeton-scraping-task
+# Princeton Web-scraping Task
 
-##Background
+## Background
 
 Because some of the richest data on real-world social behavior and outcomes is now generated or stored online, our lab’s research frequently draws on data from various online sources (e.g., Twitter, university websites, Department of Education and other federal databases). Gathering this data often requires web scraping using either APIs or custom web crawlers, and then transforming the raw scraped data into a format that can be easily merged with other data (typically CSV files).
 In a previous project, we scraped information about colleges and universities from US News and World Report’s [Best Colleges](https://www.usnews.com/best-colleges) lists. We subsequently linked this scraped data to other education datasets in order to look at the associations between college characteristics and psychological variables. We would like you to replicate the web scraping component of this project.

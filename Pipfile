@@ -8,6 +8,14 @@ beautifulsoup4 = "*"
 jupyterlab = "*"
 ipykernel = "*"
 numpy = "*"
+pandas = "*"
+seaborn = "*"
+lxml = "*"
+html5lib = "*"
+tqdm = "*"
+ipywidgets = "*"
+nbconvert = "*"
+word2number = "*"
 
 [dev-packages]
 
